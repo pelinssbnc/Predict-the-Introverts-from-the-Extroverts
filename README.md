@@ -29,7 +29,3 @@ Temel hedefler:
 | Ortam           | Jupyter Notebook                     |
 
 ---
-
-1. ```bash
-   git clone https://github.com/KULLANICI_ADINIZ/icedönük-disadönuk-kisilik-tahmini.git
-   cd icedönük-disadönuk-kisilik-tahmini
